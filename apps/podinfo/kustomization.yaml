@@ -4,3 +4,4 @@ resources:
   - deployment.yaml
   - service.yaml
   - deployment1.yaml
+  - deployment2.yaml
